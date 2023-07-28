@@ -5,6 +5,7 @@ import "./weatherStyles.css"
 export const WeatherApp = () => {
 
   const urlBase = 'https://api.openweathermap.org/data/2.5/weather'
+  /*recordar registrarte para obtener tu API_KEY PERSONAL DE LA PAGINA PRINCIPAL*/ 
   const API_KEY = '51b645ec6781e48aceb2cefcc9733f2a'
   const difKelvin = 273.15
   const [ciudad, setCiudad] = useState('');
