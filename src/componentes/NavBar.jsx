@@ -15,6 +15,11 @@ export const NavBar = () => {
           <NavLink to='/weather' className="nav-link" >Clima</NavLink>
         </li>
       </ul>
+      <ul className="navbar-nav">
+           <li className="nav-item">
+          <NavLink to='/tateti' className="nav-link" >Ta-Te-Ti</NavLink>
+        </li>
+      </ul>
     </div>
   </div>
 </nav>

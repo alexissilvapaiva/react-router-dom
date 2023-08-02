@@ -7,3 +7,6 @@
   - useState
   - Bootstrap
   - Falta manejo de errores
+
+  ## TA-TE-TI 
+  Guia : https://github.com/accesibleprogramacion/ta-te-ti
